@@ -24,4 +24,5 @@ This project helped me understand:
 - Conditional statements
 - Loops and event handling
 - GUI basics
-
+# Author
+S CHARUHASINI
